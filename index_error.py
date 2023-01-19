@@ -3,6 +3,8 @@
     If the user enters something that is out of range
     just print a default output of "Fruit pie"
 """
+# This is an IndexError example
+
 fruits = ["Apple", "Pear", "Orange"]
 
 
